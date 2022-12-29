@@ -1,0 +1,42 @@
+body{
+    background-color: darkslategrey;
+    color: white;
+}
+h1{
+    font-size: 82px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 45%;
+    margin: 100px;
+    margin-left: 50px;
+}
+.venue{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.venue1{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+input{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: fit-content;
+    font-size: 20px;
+    background-color: orange;
+    color: black;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    padding: 20px;
+    
+}
+.image{
+    text-align: right;
+    margin-top: -800px;
+    margin-right: 20px;
+}
+img{
+    height: 800px;
+    width:50%;
+}
