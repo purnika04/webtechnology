@@ -1,0 +1,25 @@
+body{
+    background-color: darkseagreen;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+.venue{
+    margin-left: 700px;
+    margin-top: 150px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 20px;
+
+}
+.image{
+    margin-top: -828px;
+
+}
+img{
+    height: 950px;
+    width:50%;
+}
